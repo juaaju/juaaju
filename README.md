@@ -1,15 +1,13 @@
 # Halo semua! 
  
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Muhammad Wahah Azzuhaili**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **ML Developer** <br>
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya banyak membuat model ML<br>
  
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
- 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
